@@ -40,9 +40,9 @@ print(salute('Hello', 'Nicolas'))
 list_fruits(['banana', 'pineapple', 'orange'])
 print(union_types(34))
 print(union_types(34.0))
-dict_ages({'Nicolas': 31, 'Tatiana': 28})
+dict_ages({'Nicolas': 31, 'Roda': 28})
 
-person = Person('Mila', 5)
+person = Person('Rada', 5)
 person_function_call(person)
 
 agent_comming_from_json = {
